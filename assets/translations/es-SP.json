@@ -1,0 +1,29 @@
+{
+  "title": "título",
+  "sub_title": "spanish sub title",
+
+  "app_name": "Flutter Tutor",
+
+  "home_screen_welcome": "other",
+  "home_screen_start_learning": "other!",
+  "home_screen_get_started": "other Started",
+
+
+  "home_screen_basic": "Basic1",
+  "home_screen_intermediate": "Intermediate1",
+  "home_screen_expert": "Expert1",
+  "home_screen_advance": "Advance1",
+
+
+  "basic_screen_flutter_widgets": "Flutter Widgets2",
+  "basic_screen_basic": "Basic2",
+
+
+
+  "msg":"{} es un {lang} desarrollador",
+  "gender":{
+    "male":"Hola hombre",
+    "female":"Hola niña"
+  }
+
+}
